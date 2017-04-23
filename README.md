@@ -1,3 +1,3 @@
 # Angular2-Routing
 
-Basic Angular 2 routing starter app.
+Basic Angular 2 routing with Navbar starter app.
